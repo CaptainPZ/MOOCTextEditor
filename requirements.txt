@@ -1,0 +1,11 @@
+Step 1: Install the Java JDK, if you don’t have it already installed
+http://www.oracle.com/technetwork/java/javase/downloads/index.html
+
+Step 2: Download, “install” and setup eclipse
+https://www.eclipse.org/downloads/
+
+Step 3: Install e(fx)clipse
+http://www.eclipse.org/efxclipse/install.html
+
+Detailed instruction: 
+https://www.coursera.org/learn/data-structures-optimizing-performance/supplement/amsdH/setting-up-java-and-eclipse
